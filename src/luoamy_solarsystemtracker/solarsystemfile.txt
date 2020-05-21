@@ -1,0 +1,75 @@
+Terrestrial
+Mercury
+0.055
+87.97
+0.467
+340
+0.056
+Iron sulfide
+
+Terrestrial
+Venus
+0.815
+224.7
+0.728
+737
+0.866
+Sulfur
+
+Terrestrial
+Earth
+1.000
+365.26
+1.017
+288
+1.000
+Iron-nickel alloy
+
+Terrestrial
+Mars
+0.107
+686.971
+1.667
+210
+0.151
+Iron
+
+Giant
+Jupiter
+317.8
+4332.59
+5.459
+165
+1321
+Class I
+true
+
+Giant
+Saturn
+95.159
+10759.22
+10.124
+134
+763.59
+Class I
+true
+
+Giant
+Uranus
+14.536
+30688.5
+20.11
+76
+63.086
+Class II
+true
+
+Giant
+Neptune
+17.147
+60182.0
+30.33
+72
+57.74
+Class II
+true
