@@ -1,4 +1,4 @@
-package luoamy_solarsystemtracker;
+package luoamy_planetarysystemtracker;
 
 /**
  * Contains all abstract methods that relate to planets.

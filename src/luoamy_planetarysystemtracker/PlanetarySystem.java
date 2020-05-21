@@ -1,4 +1,4 @@
-package luoamy_solarsystemtracker;
+package luoamy_planetarysystemtracker;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  * Contains all methods with which the user can interact with the database.
  * @author amyluo
  */
-public class SolarSystem {
+public class PlanetarySystem {
 
     final double earthMass = 5.972e24; //in kg
     final double earthVolume = 1.08321e12; //in cubic km
@@ -190,7 +190,7 @@ public class SolarSystem {
             }
             System.out.println("File saved.");
         } catch (IOException ex) {
-            Logger.getLogger(SolarSystem.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(PlanetarySystem.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
     

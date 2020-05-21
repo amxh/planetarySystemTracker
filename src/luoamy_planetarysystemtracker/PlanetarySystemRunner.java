@@ -1,4 +1,4 @@
-package luoamy_solarsystemtracker;
+package luoamy_planetarysystemtracker;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author amyluo
  */
-public class SolarSystemRunner {
+public class PlanetarySystemRunner {
 
     /**
      * @param args the command line arguments
@@ -19,9 +19,9 @@ public class SolarSystemRunner {
         String input;
 
         Scanner scan = new Scanner(System.in);
-        SolarSystem s = new SolarSystem();
+        PlanetarySystem s = new PlanetarySystem();
 
-        System.out.println("Welcome to the Solar System database.");
+        System.out.println("Welcome to the Planetary System database.");
         System.out.println("Input the name of the file storing the information of the solar system: ");
         System.out.println("Should be in the format textFileName.txt");
         fileName = scan.nextLine();

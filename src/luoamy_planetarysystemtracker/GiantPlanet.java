@@ -1,4 +1,4 @@
-package luoamy_solarsystemtracker;
+package luoamy_planetarysystemtracker;
 
 /**
  * Contains all relevant information relating to Giant planets.
